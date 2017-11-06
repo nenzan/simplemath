@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bangun_datar">
+        <item>Segitiga</item>
+        <item>Persegi</item>
+        <item>Persegi Panjang</item>
+        <item>Lingkaran</item>
+    </string-array>
+</resources>
